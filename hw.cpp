@@ -3,6 +3,7 @@
 #include <math.h>
 #include <lzo.h>
 #include <botton.h>
+#include <xyz.h>
 
 int main()
 {
