@@ -12,3 +12,6 @@ std::cout <<" Hello Workd";
 std::cout<<"Test";
 return 0;
 }
+void fo()
+{
+}
